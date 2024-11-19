@@ -57,6 +57,8 @@ A fun project toggling a bulb's state using JavaScript, ideal for beginners!
 ## 📈 **GitHub Stats**  
 ![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsalokbarnwal&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsalokbarnwal&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsalokbarnwal&theme=radical)
+
 
 ---
 
