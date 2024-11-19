@@ -12,13 +12,14 @@ Welcome to my GitHub profile! I'm a passionate 2nd-year student diving into the 
 - 🌟 Building responsive and interactive projects  
 
 ---
-
 ## 🛠️ **Skills**  
-![HTML5](https://img.shields.io/badge/-HTML5-orange)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
-![GitHub](https://img.shields.io/badge/-GitHub-black)  
-![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-green)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%2338BDF8.svg?style=for-the-badge&logo=google-chrome&logoColor=white)  
+
+ 
 
 ---
 
