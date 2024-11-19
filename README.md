@@ -23,17 +23,33 @@ Welcome to my GitHub profile! I'm a passionate 2nd-year student diving into the 
 ---
 
 ## 🚀 **Projects**  
-### 🔢 [Functional Calculator](https://github.com/yourusername/calculator)  
+
+### 🔢 [Functional Calculator](https://github.com/itsalokbarnwal/functional-calculator-js)  
 A simple yet powerful calculator built using HTML, CSS, and JavaScript with a responsive design.  
 
-### 🍔 [Zomato Clone](https://github.com/yourusername/zomato-clone)  
+### 🍔 [Zomato Clone](https://github.com/itsalokbarnwal/zomato-clone-project)  
 A static Zomato clone showcasing web design skills using only HTML and CSS.  
 
-### 🎮 [Rock Paper Scissors Game](https://github.com/yourusername/rock-paper-scissors)  
+### 🎮 [Tic Tac Toe Game](https://github.com/itsalokbarnwal/interactive-tic-tac-toe-game)  
+An interactive Tic Tac Toe game built with JavaScript, featuring dynamic gameplay and logic-based moves.  
+
+### 🔒 [Animated Login Page](https://github.com/itsalokbarnwal/Animated-Login-Page)  
+A beautifully designed animated login page with responsive support for all devices.  
+
+### 🛍️ [Amazon Clone](https://github.com/itsalokbarnwal/amazon-clone-project)  
+A feature-rich Amazon website clone showcasing web design and basic JavaScript functionalities.  
+
+### ⏰ [Digital Clock](https://github.com/itsalokbarnwal/Real-Time-Digital-Clock)  
+A real-time digital clock displaying the current time and date using JavaScript.  
+
+### 🕰️ [Real-Time Analog Clock](https://github.com/itsalokbarnwal/digital-clock)  
+An elegant analog clock that updates in real time, built with HTML, CSS, and JavaScript.  
+
+### ✊ [Rock Paper Scissors Game](https://github.com/itsalokbarnwal/rock-paper-scissors-game)  
 An interactive game made with JavaScript, featuring dynamic gameplay and animations.  
 
-### 💡 [Bulb On/Off](https://github.com/yourusername/bulb-on-off)  
-A fun project toggling a bulb's state using JavaScript, ideal for beginners!  
+### 💡 [Bulb On/Off](https://github.com/itsalokbarnwal/bulb-toggle-js)  
+A fun project toggling a bulb's state using JavaScript, ideal for beginners!    
 
 ---
 
