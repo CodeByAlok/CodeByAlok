@@ -25,39 +25,39 @@ Welcome to my GitHub profile! I'm a passionate 2nd-year student diving into the 
 
 ## 🚀 **Projects**  
 
-### 🔢 [Functional Calculator](https://github.com/itsalokbarnwal/functional-calculator-js)  
+### 🔢 [Functional Calculator](https://github.com/CodeByAlok/functional-calculator-js)  
 A simple yet powerful calculator built using HTML, CSS, and JavaScript with a responsive design.  
 
-### 🍔 [Zomato Clone](https://github.com/itsalokbarnwal/zomato-clone-project)  
+### 🍔 [Zomato Clone](https://github.com/CodeByAlok/zomato-clone-project)  
 A static Zomato clone showcasing web design skills using only HTML and CSS.  
 
-### 🎮 [Tic Tac Toe Game](https://github.com/itsalokbarnwal/interactive-tic-tac-toe-game)  
+### 🎮 [Tic Tac Toe Game](https://github.com/CodeByAlok/interactive-tic-tac-toe-game)  
 An interactive Tic Tac Toe game built with JavaScript, featuring dynamic gameplay and logic-based moves.  
 
-### 🔒 [Animated Login Page](https://github.com/itsalokbarnwal/Animated-Login-Page)  
+### 🔒 [Animated Login Page](https://github.com/CodeByAlok/Animated-Login-Page)  
 A beautifully designed animated login page with responsive support for all devices.  
 
-### 🛍️ [Amazon Clone](https://github.com/itsalokbarnwal/amazon-clone-project)  
+### 🛍️ [Amazon Clone](https://github.com/CodeByAlok/amazon-clone-project)  
 A feature-rich Amazon website clone showcasing web design and basic JavaScript functionalities.  
 
-### ⏰ [Digital Clock](https://github.com/itsalokbarnwal/Real-Time-Digital-Clock)  
+### ⏰ [Digital Clock](https://github.com/CodeByAlok/Real-Time-Digital-Clock)  
 A real-time digital clock displaying the current time and date using JavaScript.  
 
-### 🕰️ [Real-Time Analog Clock](https://github.com/itsalokbarnwal/digital-clock)  
+### 🕰️ [Real-Time Analog Clock](https://github.com/CodeByAlok/digital-clock)  
 An elegant analog clock that updates in real time, built with HTML, CSS, and JavaScript.  
 
-### ✊ [Rock Paper Scissors Game](https://github.com/itsalokbarnwal/rock-paper-scissors-game)  
+### ✊ [Rock Paper Scissors Game](https://github.com/CodeByAlok/rock-paper-scissors-game)  
 An interactive game made with JavaScript, featuring dynamic gameplay and animations.  
 
-### 💡 [Bulb On/Off](https://github.com/itsalokbarnwal/bulb-toggle-js)  
+### 💡 [Bulb On/Off](https://github.com/CodeByAlok/bulb-toggle-js)  
 A fun project toggling a bulb's state using JavaScript, ideal for beginners!    
 
 ---
 
 ## 📈 **GitHub Stats**  
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsalokbarnwal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsalokbarnwal&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsalokbarnwal&theme=radical)
+![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByAlok&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAlok&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeByAlok&theme=radical)
 
 
 ---
