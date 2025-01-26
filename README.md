@@ -40,10 +40,10 @@ A beautifully designed animated login page with responsive support for all devic
 ### 🛍️ [Amazon Clone](https://github.com/CodeByAlok/amazon-clone-project)  
 A feature-rich Amazon website clone showcasing web design and basic JavaScript functionalities.  
 
-### ⏰ [Digital Clock](https://github.com/CodeByAlok/Real-Time-Digital-Clock)  
+### ⏰ [Digital Clock](https://github.com/CodeByAlok/digital-clock)  
 A real-time digital clock displaying the current time and date using JavaScript.  
 
-### 🕰️ [Real-Time Analog Clock](https://github.com/CodeByAlok/digital-clock)  
+### 🕰️ [Real-Time Analog Clock](https://github.com/CodeByAlok/Real-Time-Digital-Clock)  
 An elegant analog clock that updates in real time, built with HTML, CSS, and JavaScript.  
 
 ### ✊ [Rock Paper Scissors Game](https://github.com/CodeByAlok/rock-paper-scissors-game)  
@@ -52,6 +52,29 @@ An interactive game made with JavaScript, featuring dynamic gameplay and animati
 ### 💡 [Bulb On/Off](https://github.com/CodeByAlok/bulb-toggle-js)  
 A fun project toggling a bulb's state using JavaScript, ideal for beginners!    
 
+### ❓ [Animated FAQ's Section](https://github.com/CodeByAlok/Animated-FAQ-s-Section)  
+A dynamic and interactive FAQ section with smooth animations, built using HTML, CSS, and JavaScript.
+
+### 🏪 [My Father's Shop Website](https://github.com/CodeByAlok/SanojBookDepo-GeneralStore)  
+A personalized website showcasing my father's shop, designed with HTML, CSS, and JavaScript.
+
+### 🎨 [Dynamic Color Picker](https://github.com/CodeByAlok/DynamicColorPicker)  
+An interactive color picker tool that updates dynamically, built with JavaScript.
+
+### 📝 [Todo List](https://github.com/CodeByAlok/todo-list-simple-js)  
+A simple and elegant to-do list application for managing tasks, created using HTML, CSS, and JavaScript.
+
+### 🔢 [Number Guesser](https://github.com/CodeByAlok/guess-the-number)  
+A fun number-guessing game with dynamic feedback, built with JavaScript.
+
+### 🌌 [Spinning Orbits](https://github.com/CodeByAlok/spinning-orbits)  
+A mesmerizing animation of spinning orbits created with CSS and JavaScript.
+
+### 🇮🇳 [Republic Day Tiranga](https://github.com/CodeByAlok/Republic-Day-Triranga)  
+A tribute to India's National Flag, the Triranga, created using HTML and CSS to celebrate Republic Day.
+
+### 🎓 [Sarkari Result Clone Website](https://github.com/CodeByAlok/Sarkari--result-Clone)  
+A clone of the Sarkari Result website to practice web design and layout skills.
 ---
 
 ## 📈 **GitHub Stats**  
@@ -64,9 +87,23 @@ A fun project toggling a bulb's state using JavaScript, ideal for beginners!
 
 ## 💬 **Let's Connect!**  
 🌐 **Portfolio Website**: *Coming Soon!*  
-💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)  
-📷 **Instagram**: [Follow me](https://www.instagram.com/its.alok.barnwal/)  
+💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/alokbarnwal-webdev/)  
+📷 **Instagram**: [Follow me](https://www.instagram.com/its.alok.barnwal/) 
+📷 **Instagram**: [Follow me](https://www.instagram.com/codebyalok/) 
+🐦 **Twitter (X)**: [Follow me](https://x.com/AlokBar99860193)  
+📺 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@CodeByAlok)  
 📩 **Email**: barnwalalok306@gmail.com  
+
+<div class="connect-section">
+  <h2>🌐 <strong>Let's Connect & Create Together!</strong></h2>
+  <p>🚀 <strong>Portfolio Website</strong>: <em>Coming Soon – Stay tuned!</em></p>
+  <p>🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/alokbarnwal-webdev/" target="_blank">Join my professional network</a></p>
+  <p>📸 <strong>Instagram</strong>: <a href="https://www.instagram.com/its.alok.barnwal/" target="_blank">Journey with me</a></p>
+  <p>👨‍💻 <strong>Instagram</strong>: <a href="https://www.instagram.com/codebyalok/" target="_blank">Explore coding content</a></p>
+  <p>🐦 <strong>Twitter (X)</strong>: <a href="https://x.com/AlokBar99860193" target="_blank">Let's connect on X</a></p>
+  <p>🎥 <strong>YouTube</strong>: <a href="https://www.youtube.com/@CodeByAlok" target="_blank">Watch tutorials & projects</a></p>
+  <p>📧 <strong>Email</strong>: <a href="mailto:barnwalalok306@gmail.com" target="_blank">Reach out</a></p>
+</div>
 
 ---
 
